@@ -1,0 +1,259 @@
+┌ Info: 2023-10-13 15:07:10 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-13 15:07:20 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-13 15:07:22 
+│ Web Server starting at http://0.0.0.0:9101 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\mathe\.julia\packages\Genie\dOqOT\src\Server.jl:161
+┌ Info: 2023-10-13 15:07:23 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\mathe\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-10-13 15:09:54 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:10:15 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:12:13 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:12:21 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:15:21 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-10-13 15:19:21 Failed to revise C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial\\app.jl:4", ArgumentError("Package SQLite not found in current path.\n- Run `import Pkg; Pkg.add(\"SQLite\")` to install the SQLite package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:723
+┌ Warning: 2023-10-13 15:19:22 The running code does not match the saved version for the following files:
+│ 
+│   C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:833
+┌ Error: 2023-10-13 15:23:06 Failed to revise C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial\\app.jl:4", ArgumentError("Package SQLite not found in current path.\n- Run `import Pkg; Pkg.add(\"SQLite\")` to install the SQLite package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:723
+┌ Error: 2023-10-13 15:23:08 Failed to revise C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial\\app.jl:4", ArgumentError("Package SQLite not found in current path.\n- Run `import Pkg; Pkg.add(\"SQLite\")` to install the SQLite package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:723
+┌ Error: 2023-10-13 15:24:00 Failed to revise C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial\\app.jl:4", ArgumentError("Package SQLite not found in current path.\n- Run `import Pkg; Pkg.add(\"SQLite\")` to install the SQLite package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:723
+┌ Error: 2023-10-13 15:25:43 Failed to revise C:\Users\mathe\.julia\geniebuilder\apps\tutorial\app.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial\\app.jl:5", ArgumentError("Package DataFrames not found in current path.\n- Run `import Pkg; Pkg.add(\"DataFrames\")` to install the DataFrames package."), Any[(top-level scope at app.jl:5, 1)])
+└ @ Revise C:\Users\mathe\.julia\packages\Revise\t6Vjc\src\packagedef.jl:723
+┌ Info: 2023-10-13 15:28:37 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-13 15:28:45 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-13 15:28:47 
+│ Web Server starting at http://0.0.0.0:9101 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\mathe\.julia\packages\Genie\dOqOT\src\Server.jl:161
+┌ Info: 2023-10-13 15:28:47 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\mathe\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-10-13 15:30:04 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:30:48 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:31:11 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:32:57 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:33:15 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-10-13 15:33:21 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   Vector{String}
+│ 
+│   Value:
+│   ["Africa"]
+│ 
+│   Exception:
+│   UndefVarError(:N)
+│ 
+│   exception = (UndefVarError(:N), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c351671, Ptr{Nothing} @0x00007ffb1c2f068f, Ptr{Nothing} @0x000001ee2f3de4ee, Ptr{Nothing} @0x000001ee2f3de69e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3dc625, Ptr{Nothing} @0x000001ee2f3dcf71, Ptr{Nothing} @0x000001ee2f3dcfb9, Ptr{Nothing} @0x000001ee2f3dc2d6, Ptr{Nothing} @0x000001ee2f3c994c, Ptr{Nothing} @0x000001ee2f3c9ab3, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Info: 2023-10-13 15:34:05 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-10-13 15:34:10 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   RangeData{Int64}
+│ 
+│   Value:
+│   RangeData{Int64}(1956:2021)
+│ 
+│   Exception:
+│   UndefVarError(:N)
+│ 
+│   exception = (UndefVarError(:N), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c351671, Ptr{Nothing} @0x00007ffb1c2f068f, Ptr{Nothing} @0x000001ee2f3de4ee, Ptr{Nothing} @0x000001ee2f3de69e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3f79b5, Ptr{Nothing} @0x000001ee2f3f8301, Ptr{Nothing} @0x000001ee2f3f8349, Ptr{Nothing} @0x000001ee2f3f7675, Ptr{Nothing} @0x000001ee2f3c994c, Ptr{Nothing} @0x000001ee2f3c9ab3, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Error: 2023-10-13 15:34:11 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   RangeData{Int64}
+│ 
+│   Value:
+│   RangeData{Int64}(1956:2015)
+│ 
+│   Exception:
+│   UndefVarError(:N)
+│ 
+│   exception = (UndefVarError(:N), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c351671, Ptr{Nothing} @0x00007ffb1c2f068f, Ptr{Nothing} @0x000001ee2f3de4ee, Ptr{Nothing} @0x000001ee2f3de69e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3f79b5, Ptr{Nothing} @0x000001ee2f3f8301, Ptr{Nothing} @0x000001ee2f3f8349, Ptr{Nothing} @0x000001ee2f3f7675, Ptr{Nothing} @0x000001ee2f3c994c, Ptr{Nothing} @0x000001ee2f3c9ab3, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Error: 2023-10-13 15:34:15 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   Vector{String}
+│ 
+│   Value:
+│   ["Africa"]
+│ 
+│   Exception:
+│   UndefVarError(:N)
+│ 
+│   exception = (UndefVarError(:N), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c351671, Ptr{Nothing} @0x00007ffb1c2f068f, Ptr{Nothing} @0x000001ee2f3de4ee, Ptr{Nothing} @0x000001ee2f3de69e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3dc625, Ptr{Nothing} @0x000001ee2f3dcf71, Ptr{Nothing} @0x000001ee2f3dcfb9, Ptr{Nothing} @0x000001ee2f3dc2d6, Ptr{Nothing} @0x000001ee2f3c994c, Ptr{Nothing} @0x000001ee2f3c9ab3, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Info: 2023-10-13 15:34:31 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-10-13 15:34:36 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   RangeData{Int64}
+│ 
+│   Value:
+│   RangeData{Int64}(1985:2015)
+│ 
+│   Exception:
+│   UndefVarError(:N)
+│ 
+│   exception = (UndefVarError(:N), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c351671, Ptr{Nothing} @0x00007ffb1c2f068f, Ptr{Nothing} @0x000001ee2f3de4ee, Ptr{Nothing} @0x000001ee2f3de69e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3f79b5, Ptr{Nothing} @0x000001ee2f3f8301, Ptr{Nothing} @0x000001ee2f3f8349, Ptr{Nothing} @0x000001ee2f3f7675, Ptr{Nothing} @0x000001ee2f3c994c, Ptr{Nothing} @0x000001ee2f3c9ab3, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Info: 2023-10-13 15:35:02 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:36:34 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:40:56 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:41:01 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:41:32 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-10-13 15:41:45 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for callable object:
+│  [1] (onany::Observables.OnAny)(value)
+│      @ Observables C:\Users\mathe\.julia\packages\Observables\PHGQ8\src\Observables.jl:414
+│   Core.CodeInfo[CodeInfo(
+│ 1 ─      nothing
+│ │   %2 = Base.invokelatest
+│ │   %3 = Base.getproperty(onany, :f)
+│ │   %4 = Core.tuple(%3)
+│ │   %5 = Observables.to_value
+│ │   %6 = Base.getproperty(onany, :args)
+│ │   %7 = Observables.map(%5, %6)
+│ │   %8 = Core._apply_iterate(Base.iterate, %2, %4, %7)
+│ └──      return %8
+│ )]
+│ 
+│   Type of argument:
+│   RangeData{Int64}
+│ 
+│   Value:
+│   RangeData{Int64}(1963:2010)
+│ 
+│   Exception:
+│   MethodError(uppercase, (["Africa"],), 0x000000000000841a)
+│ 
+│   exception = (MethodError(uppercase, (["Africa"],), 0x000000000000841a), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb1c2ceeac, Ptr{Nothing} @0x00007ffb1c2d56c5, Ptr{Nothing} @0x00007ffb1c2d58e2, Ptr{Nothing} @0x00007ffb1c2d9ddd, Ptr{Nothing} @0x000001ee2f461bdf, Ptr{Nothing} @0x000001ee2f461c0e, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65737dd, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x00007ffae65739f3, Ptr{Nothing} @0x00007ffb1c2e6663, Ptr{Nothing} @0x000001ee2f3de10f, Ptr{Nothing} @0x000001ee2f3de146, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2f3f79b5, Ptr{Nothing} @0x000001ee2f3f8301, Ptr{Nothing} @0x000001ee2f3f8349, Ptr{Nothing} @0x000001ee2f461265, Ptr{Nothing} @0x000001ee2f45bbac, Ptr{Nothing} @0x000001ee2f45bd13, Ptr{Nothing} @0x000001ee2e20a083, Ptr{Nothing} @0x000001ee2e20a59d, Ptr{Nothing} @0x000001ee2e20a620, Ptr{Nothing} @0x000001ee2e20a65a, Ptr{Nothing} @0x000001ee2e1d6a59, Ptr{Nothing} @0x000001ee2e1d6aa3, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1d3551, Ptr{Nothing} @0x000001ee2e1d3ba2, Ptr{Nothing} @0x000001ee2e1d4f2f, Ptr{Nothing} @0x000001ee2e1d5c70, Ptr{Nothing} @0x000001ee2e1d5d16, Ptr{Nothing} @0x00007ffb1c2e476a, Ptr{Nothing} @0x000001ee2e1c3bac, Ptr{Nothing} @0x000001ee2e1c5de4, Ptr{Nothing} @0x000001ee2e1c5ea3, Ptr{Nothing} @0x00007ffb1c2f84fb])
+└ @ Stipple C:\Users\mathe\.julia\packages\Stipple\ixOiA\src\stipple\mutators.jl:54
+┌ Info: 2023-10-13 15:42:11 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-13 15:43:35 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22

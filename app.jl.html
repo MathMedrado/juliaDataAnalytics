@@ -1,0 +1,17 @@
+<h4> Hello Genie! </h4>
+<h1 id="i5u3" draggable="true" v-text="msg">Adicionando um teste
+</h1>
+<div class="st-col col-12 col-sm st-module">
+    <p id="ix7q" draggable="true"></p>
+</div>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <p>Data</p>
+        <q-range v-model="date" :min="1950" :max="2021" :label="true"></q-range>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <p>Continente</p>
+        <q-select v-model="continent_selection" :options="continent_list" :display-value="continent_selection"></q-select>
+    </div>
+</div>
+<plotly :data="plotgraph"></plotly>

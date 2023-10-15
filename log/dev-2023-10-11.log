@@ -1,0 +1,23 @@
+┌ Info: 2023-10-11 17:11:12 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-11 17:11:22 Watching ["C:\\Users\\mathe\\.julia\\geniebuilder\\apps\\tutorial"]
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-10-11 17:11:23 
+│ Web Server starting at http://0.0.0.0:9101 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server C:\Users\mathe\.julia\packages\Genie\dOqOT\src\Server.jl:161
+┌ Info: 2023-10-11 17:11:24 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\mathe\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-10-11 17:17:17 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:18:10 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:19:54 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:19:58 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:21:09 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:21:22 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-10-11 17:24:35 Autoreloading
+└ @ GenieAutoReload C:\Users\mathe\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22

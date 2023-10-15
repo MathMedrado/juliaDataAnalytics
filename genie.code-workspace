@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../projetos/julia/genie"
+		},
+		{
+			"name": "tutorial",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
